@@ -1,4 +1,4 @@
-![2024readme](https://github.com/AR20-4/AR20-4/assets/52646703/d565fd6b-6faf-47d0-8bcd-d0dbfc5a0840)
+![2024readmegithub](https://github.com/AR20-4/AR20-4/assets/52646703/c91b7051-e75a-44d6-b94e-9a6aa1c5da9f)
 
 ---
 ### Hello! Rachel here 👋 
