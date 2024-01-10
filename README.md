@@ -1,9 +1,9 @@
 ![2024readmegithub](https://github.com/AR20-4/AR20-4/assets/52646703/c91b7051-e75a-44d6-b94e-9a6aa1c5da9f)
 
 ---
-### Hello! Rachel here 👋 
+### Hello! Nice to meet you, I am Rachel 👋 
 
-I am a Full-stack Web Developer who is looking for a job in tech. I have many skills including a background in cultural anthropology which helps my Design Thinking Skills for excellent User Experience. I also have a background in graphic design so I can create impactful UI   :wink:
+I am a Full-stack Web Developer who is looking for a job in tech. I have many skills including a background in cultural anthropology which helps my Design Thinking Skills for excellent User Experience. I also have a background in Graphic Design so I know how to create an impactful UI   :wink:
 
 - 😄 Pronouns: She/Her 
 - 🔭 I’m currently working on mastering Javascript 
@@ -11,9 +11,9 @@ I am a Full-stack Web Developer who is looking for a job in tech. I have many sk
 - 👯 I’m looking to collaborate on projects
 - ⚡ Fun fact I used to teach modular synthesis 
  ---
-### You can find in me in the web 🌍
+### You can find me on the web 🌍
 [<img align="left" alt="AR20-4" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="AR20-4 | dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribble.svg" />][dribble]
+[<img align="left" alt="AR20-4" | "dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribble.svg" />][dribbble]
 [<img align="left" alt="AR20-4 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AR20-4| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
