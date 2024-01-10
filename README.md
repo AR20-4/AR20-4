@@ -13,7 +13,7 @@ I am a Full-stack Web Developer who is looking for a job in tech. I have many sk
  ---
 ### You can find me on the web 🌍
 [<img align="left" alt="AR20-4" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="AR20-4" | "dribble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribble.svg" />][dribbble]
+[<img align="left" alt="AR20-4 | dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
 [<img align="left" alt="AR20-4 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AR20-4| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
