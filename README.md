@@ -4,7 +4,7 @@ I am a Full-stack Web Developer who is looking for a job in tech. I have many sk
 
 - 😄 Pronouns: She/Her 
 - 🔭 I’m currently working on mastering React and Next.js
-- 🌱 I’m interested in learning more front in libraries and faster tech stacks
+- 🌱 I’m interested in learning more front end libraries and faster tech stacks
 - 👯 I’m looking to collaborate on projects
 - ⚡ Fun fact I used to teach modular synthesis 
  ---
