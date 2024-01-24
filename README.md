@@ -3,8 +3,8 @@
 I am a Full-stack Web Developer who is looking for a job in tech. I have many skills including a background in cultural anthropology which helps my Design Thinking Skills for excellent User Experience. I also have a background in Graphic Design so I know how to create an impactful UI   :wink:
 
 - 😄 Pronouns: She/Her 
-- 🔭 I’m currently working on mastering Javascript 
-- 🌱 I’m interested in learning python
+- 🔭 I’m currently working on mastering React and Next.js
+- 🌱 I’m interested in learning more front in libraries and faster tech stacks
 - 👯 I’m looking to collaborate on projects
 - ⚡ Fun fact I used to teach modular synthesis 
  ---
