@@ -1,4 +1,4 @@
-### Hello! Nice to meet you, I am Rachel 👋 
+### Hello! Nice to meet you, I am Rachel 🙋🏼‍♀️
 
 I am a Full-stack Web Developer who is looking for a job in tech. I have many skills including a background in cultural anthropology which helps my Design Thinking Skills for excellent User Experience. I also have a background in Graphic Design so I know how to create an impactful UI   :wink:
 
@@ -42,7 +42,7 @@ I am a Full-stack Web Developer who is looking for a job in tech. I have many sk
 
 ---
 
-Let's connect 👨‍💻 and forge the future together.😁✌
+Let's connect 👩🏼‍💻 and forge the future together.😁✌🏼
 
 **Check the Repositories and don't forget to give a star.** 👇
 
