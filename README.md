@@ -42,7 +42,7 @@ I am a Full-stack Web Developer who is looking for a job in tech. I have many sk
 
 ---
 
-Let's connect 👩🏼‍💻 and forge the future together.😁✌🏼
+Let's connect 👩🏼‍💻 and conjure the future together.😁✌🏼
 
 **Check the Repositories and don't forget to give a star.** 👇
 
