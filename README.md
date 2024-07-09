@@ -33,14 +33,14 @@ I am looking for opportunities to showcase my coding skills and would love to jo
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
 ---
-
+<!---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AR20-4&show_icons=true&theme=radical)
-
+--->
 ---
 
-Let's connect 👩🏼‍💻 and conjure the future together.😁✌🏼
+### Let's connect 👩🏼‍💻 and conjure the future together.😁✌🏼
 
-### You can find me on the web 🌍
+You can find me on the web 🌍
 [<img align="left" alt="AR20-4" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="AR20-4 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br/>
