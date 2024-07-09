@@ -36,7 +36,6 @@ I am looking for opportunities to showcase my coding skills and would love to jo
 <!---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AR20-4&show_icons=true&theme=radical)
 --->
----
 
 ### Let's connect 👩🏼‍💻 and conjure the future together.😁✌🏼
 
@@ -48,7 +47,7 @@ You can find me on the web 🌍
 [website]: https://HireRachel.dev/
 [linkedin]: https://www.linkedin.com/in/hirerachelglasgow/
 
-
+---
 **Check out my Repositories and if you like them please give them a star.** 👇
 
 :star: From [AR20-4](https://github.com/AR20-4)
