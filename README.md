@@ -1,19 +1,20 @@
 ### Hello! I am Rachel 🙋🏼‍♀️
 
-I am a Full-stack Web Developer who is looking for a job in tech. I have many skills including a background in cultural anthropology which helps my Design Thinking Skills for excellent User Experience. I also have a background in Graphic Design so I know how to create an impactful UI   :wink:
+I am a multi-talented professional with expertise in web development who loves crafting lines of code into stunning visually appealing, and user-friendly websites. 
+
+I’ve been passionate about coding for the past 3 years. My focus is building full-stack web applications using HTML, CSS, JavaScript, React, Tailwind, MongoDB, Node.js, and Express. However, I believe a great developer is not beholden to one specific language, but has the knowledge to choose the best tool for the job therefore I am willing to learn more languages and frameworks.
+
+I am looking for opportunities to showcase my coding skills and would love to join a close-knit team of developers where I can quickly make an impact. If you’re hiring, let’s chat! :wink:
 
 - 😄 Pronouns: She/Her 
-- 🔭 I’m currently working on mastering React and Next.js
-- 🌱 I’m interested in learning more front end libraries and faster tech stacks
-- 👯 I’m looking to collaborate on projects
-- ⚡ Fun fact I used to teach modular synthesis 
+- 🔭 I’m currently working on mastering React and have a strong interest in diving into Next.js after
+- 🌱 I’m eager to adopt faster tech stacks and learn more front-end frameworks. 
+- 👯 I'd love to collaborate on a project!
+- ⚡ Fun fact I used to teach modular synthesis and have a passion for creating music.
  ---
 ### You can find me on the web 🌍
 [<img align="left" alt="AR20-4" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="AR20-4 | dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
 [<img align="left" alt="AR20-4 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AR20-4| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br/>
 
 ### Tech & Tools Preference
@@ -44,14 +45,13 @@ I am a Full-stack Web Developer who is looking for a job in tech. I have many sk
 
 Let's connect 👩🏼‍💻 and conjure the future together.😁✌🏼
 
-**Check the Repositories and don't forget to give a star.** 👇
+**Check out my Repositories and if you like them please give them a star.** 👇
 
 :star: From [AR20-4](https://github.com/AR20-4)
 
-[website]: https://AR20-4.github.io/Portfolio/
-[instagram]: https://www.instagram.com/ar2.aesthetics/
+[website]: https://HireRachel.dev/
 [linkedin]: https://www.linkedin.com/in/hirerachelglasgow/
-[dribble]: https://dribbble.com/apalehorserides
+
 
 
 
