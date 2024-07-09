@@ -38,6 +38,8 @@ I am looking for opportunities to showcase my coding skills and would love to jo
 
 ---
 
+Let's connect 👩🏼‍💻 and conjure the future together.😁✌🏼
+
 ### You can find me on the web 🌍
 [<img align="left" alt="AR20-4" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="AR20-4 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -46,13 +48,9 @@ I am looking for opportunities to showcase my coding skills and would love to jo
 [website]: https://HireRachel.dev/
 [linkedin]: https://www.linkedin.com/in/hirerachelglasgow/
 
-Let's connect 👩🏼‍💻 and conjure the future together.😁✌🏼
 
 **Check out my Repositories and if you like them please give them a star.** 👇
 
 :star: From [AR20-4](https://github.com/AR20-4)
-
-
-
 
 
