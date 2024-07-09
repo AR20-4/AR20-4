@@ -12,11 +12,6 @@ I am looking for opportunities to showcase my coding skills and would love to jo
 - 👯 I'd love to collaborate on a project!
 - ⚡ Fun fact I used to teach modular synthesis and have a passion for creating music.
  ---
-### You can find me on the web 🌍
-[<img align="left" alt="AR20-4" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="AR20-4 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br/>
-
 ### Tech & Tools Preference
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -48,6 +43,11 @@ Let's connect 👩🏼‍💻 and conjure the future together.😁✌🏼
 **Check out my Repositories and if you like them please give them a star.** 👇
 
 :star: From [AR20-4](https://github.com/AR20-4)
+
+### You can find me on the web 🌍
+[<img align="left" alt="AR20-4" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="AR20-4 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br/>
 
 [website]: https://HireRachel.dev/
 [linkedin]: https://www.linkedin.com/in/hirerachelglasgow/
