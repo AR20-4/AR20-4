@@ -1,6 +1,6 @@
-### 👋 Hello! GitHub community! I'm Rachel,🙋🏼‍♀️
+### 👋 Hello GitHub Community! 
 
-a multi-talented professional with a deep passion for crafting lines of code into stunning, visually appealing, and user-friendly websites.
+I'm Rachel 🙋🏼‍♀️ a multi-talented professional with a deep passion for crafting lines of code into stunning, visually appealing, and user-friendly websites.
 
 For the past 3 years, I've immersed myself in the world of coding, focusing on building full-stack web applications using HTML, CSS, JavaScript, React, Tailwind, MongoDB, Node.js, and Express. I believe in the power of versatility and adaptability, which is why I'm always eager to learn new languages and frameworks to stay ahead in the ever-evolving tech landscape.
 
