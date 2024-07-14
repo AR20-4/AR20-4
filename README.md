@@ -1,10 +1,10 @@
 ### 👋 Hello GitHub Community! 
 
-I'm Rachel 🙋🏼‍♀️ a multi-talented professional with a deep enthusiasm for crafting lines of code into stunning, visually appealing, and user-friendly websites.
+I'm Rachel 🙋🏼‍♀️ a multi-talented front-end web developer who shares a deep enthusiasm for curating lines of code into stunning, visually appealing, and user-friendly websites.
 
-For the past 3 years, I've immersed myself in the world of coding, focusing on building full-stack web applications using HTML, CSS, JavaScript, React, Tailwind, MongoDB, Node.js, and Express. I believe in the power of versatility and adaptability, which is why I'm always eager to learn new languages and frameworks to stay ahead in the ever-evolving tech landscape.
+For the past 3 years, I've immersed myself in coding, carefully crafting my skills to be a software engineer. My focus is on building full-stack web applications using HTML, CSS, JavaScript, React, Tailwind, MongoDB, Node.js, and Express. However, I believe in the power of versatility and adaptability, which is why I'm always eager to learn new languages and frameworks to stay ahead in the ever-evolving tech landscape.
 
-I am currently seeking opportunities to showcase my coding skills and contribute to a dynamic team of developers where I can quickly make a meaningful impact. Whether you're looking for a dedicated front-end specialist, a savvy full-stack developer, or someone who thrives in collaborative environments, let's connect! :wink:
+I am currently seeking opportunities to showcase my coding skills and contribute to a dynamic team of developers where I can quickly make a meaningful impact. If you're looking for a dedicated front-end specialist or a savvy full-stack developer, I am someone who thrives in a collaborative environment, so let's connect! :wink:
 
 - 😄 Pronouns: She/Her 
 - 🔭 Currently I'm focused on mastering React and excited to delve into Next.js next.
