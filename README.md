@@ -8,7 +8,7 @@ I am currently seeking opportunities to showcase my coding skills and contribute
 
 - 😄 Pronouns: She/Her 
 - 🔭 Currently I'm focused on mastering React and excited to delve into Next.js next.
-- 🌱 I’m eager to embrace faster tech stacks and expand my knowledge of front-end frameworks.
+- 🌱 I’m eager to expand my knowledge of front-end frameworks and embrace faster tech stacks.
 - 👯 I'd love to collaborate on a project!
 - ⚡ Fun fact: I have a background in teaching modular synthesis and a deep passion for music creation.
  ---
@@ -37,7 +37,7 @@ I am currently seeking opportunities to showcase my coding skills and contribute
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AR20-4&show_icons=true&theme=radical)
 --->
 
-### Let's connect 👩🏼‍💻 and conjure the future together.😁✌🏼
+### Would you like to connect 👩🏼‍💻 and conjure the future together.✨✌🏼
 
 You can find me on the web 🌍
 [<img align="left" alt="AR20-4" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
