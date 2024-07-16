@@ -37,7 +37,7 @@ I am currently seeking opportunities to showcase my coding skills and contribute
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AR20-4&show_icons=true&theme=radical)
 --->
 
-### Would you like to connect 👩🏼‍💻 and conjure the future together.✨✌🏼
+### Let's connect 👩🏼‍💻 and conjure the future together.✨✌🏼
 
 [<img align="left" alt="AR20-4" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="AR20-4 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
