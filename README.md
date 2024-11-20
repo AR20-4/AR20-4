@@ -1,13 +1,13 @@
 ### 👋 Hello GitHub Community! 
 
-I'm Rachel 🙋🏼‍♀️ a multi-talented front-end web developer who shares a deep enthusiasm for curating lines of code into stunning, visually appealing, and user-friendly websites.
+I'm Rachel 🙋🏼‍♀️ a passionate front-end web developer with a knack for transforming code into visually captivating and highly functional websites. My formula for success combines UI/UX excellence with open communication during the design prototype phase to ensure collaborative and effective results.
 
-For the past few years, I've immersed myself in coding, carefully crafting my skills to be a software engineer. My focus is on building full-stack web applications using HTML, CSS, JavaScript, React, Tailwind, MongoDB, Node.js, and Express. However, I believe in the power of versatility and adaptability, which is why I'm always eager to learn new languages and frameworks to stay ahead in the ever-evolving tech landscape.
+With a background in cultural anthropology, marketing, and digital design the transition to Front-End Web Developer seemed natural although not without hard work and dedication. For the past few years, I've immersed myself in several educational coding programs to diligently craft my skills as a web developer. My focus is building full-stack web applications using HTML, CSS, JavaScript, React, Tailwind, MongoDB, Node.js, and Express. To stay ahead in the ever-evolving tech landscape I hold fast to continuous education, learning new frameworks, libraries, and even new programming languages to maintain versatility and adaptability.
 
-I am currently seeking opportunities to showcase my coding skills and contribute to a dynamic team of developers where I can quickly make a meaningful impact. If you're looking for a dedicated front-end specialist or a savvy full-stack developer, I am someone who thrives in a collaborative environment, so let's connect! :wink:
+I am seeking opportunities to showcase my coding skills and contribute to a dynamic team of developers where I can quickly make a meaningful impact. If you're looking for a dedicated front-end specialist or a savvy full-stack developer, I am someone who thrives in a collaborative environment, so let's connect! 😉 
 
 - 😄 Pronouns: She/Her 
-- 🔭 Currently I'm focused on mastering React and excited to delve into Next.js next.
+- 🔭 Currently I'm focused on mastering React and excited to dive into Next.js.
 - 🌱 I’m eager to expand my knowledge of front-end frameworks and embrace faster tech stacks.
 - 👯 I'd love to collaborate on a project!
 - ⚡ Fun fact: I have a background in teaching modular synthesis and a deep passion for music creation.
